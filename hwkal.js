@@ -31,8 +31,8 @@ global.botname = 'Gilzz Bug Bot' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = 'Gilzz Attack' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['84334946313'] // ubah aja pake nomor lu
-global.premium = ['84334946313'] // ubah aja pake nomor lu
+global.owner = ['6285730794089'] // ubah aja pake nomor lu
+global.premium = ['6285730794089'] // ubah aja pake nomor lu
 global.packname = 'Gilzz XD' // ubah aja
 global.ownerr = ['Gilzz XD'] // ubaha aja
 global.author = 'Bot Wangsaf' //ubah aja
