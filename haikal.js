@@ -3449,7 +3449,7 @@ url: 'https://youtube.com/c/HwModsWa857'
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+6285714170944'
+phoneNumber: '+6285730794089'
 }
 }, {
 quickReplyButton: {
@@ -4159,9 +4159,9 @@ jpegThumbnail:log0,
 caption: `
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
-◎ Owner : HW MODS WA
+◎ Owner : Gilzz xd
 
-[ 🇲🇨 Ini adalah Bot Pribadi Tekan Link Di Bawah Untuk Bergabung ]`,
+[ 🇲🇨 Simpel Bot ]`,
 footer: haikal.user.name,
 buttons: buttons,
 headerType: 4
@@ -4202,10 +4202,10 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *NOTE*
 🌷
-contact me Wa.me/6285714170944
+contact me Wa.me/6285730794089
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©Haikal`, contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
+©g̴̨̛͇͚̒̾̈̆į̶̻͎͉̘͖̤͕́̄̈́̑̃l̷͚̑̓͐̐̊z̶̛͚̙̥̼͕̊̀̒̑̐̉̃͒̕z̸͔̱̻̻̳̗̋̓̃͋͑͒̀͘ͅ ̸͉͍͎̠͌͑̔̽̇͆̍́ä̸̢̨̮͈̪́̅ť̶̗̿́̕̚ḁ̵̀c̸̨̠̺̏̀͋͛̈́͛̚̚͝k̶̭̤̑̽̈̚͠`, contextInfo:{"externalAdReply": {"title": `Gilzz Atack`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
